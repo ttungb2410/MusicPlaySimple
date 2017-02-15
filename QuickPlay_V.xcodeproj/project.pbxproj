@@ -7,14 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7A5C1341E54094200870F5E /* music2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7A5C1321E54094200870F5E /* music2.mp3 */; };
+		C7A5C1351E54094200870F5E /* music3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7A5C1331E54094200870F5E /* music3.mp3 */; };
 		C7F0ABAD1E52AB4500788202 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F0ABAC1E52AB4500788202 /* AppDelegate.swift */; };
 		C7F0ABAF1E52AB4500788202 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F0ABAE1E52AB4500788202 /* ViewController.swift */; };
 		C7F0ABB21E52AB4500788202 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABB01E52AB4500788202 /* Main.storyboard */; };
 		C7F0ABB41E52AB4500788202 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABB31E52AB4500788202 /* Assets.xcassets */; };
 		C7F0ABB71E52AB4500788202 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABB51E52AB4500788202 /* LaunchScreen.storyboard */; };
+		C7F0ABC71E52B02800788202 /* duration.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABBF1E52B02800788202 /* duration.png */; };
+		C7F0ABC81E52B02800788202 /* maxVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC01E52B02800788202 /* maxVolume.png */; };
+		C7F0ABC91E52B02800788202 /* miniVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC11E52B02800788202 /* miniVolume.png */; };
+		C7F0ABCA1E52B02800788202 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC21E52B02800788202 /* music.mp3 */; };
+		C7F0ABCB1E52B02800788202 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC31E52B02800788202 /* pause.png */; };
+		C7F0ABCC1E52B02800788202 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC41E52B02800788202 /* play.png */; };
+		C7F0ABCD1E52B02800788202 /* thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC51E52B02800788202 /* thumb.png */; };
+		C7F0ABCE1E52B02800788202 /* thumbHightLight.png in Resources */ = {isa = PBXBuildFile; fileRef = C7F0ABC61E52B02800788202 /* thumbHightLight.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C7A5C1321E54094200870F5E /* music2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music2.mp3; sourceTree = "<group>"; };
+		C7A5C1331E54094200870F5E /* music3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music3.mp3; sourceTree = "<group>"; };
 		C7F0ABA91E52AB4500788202 /* QuickPlay_V.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickPlay_V.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F0ABAC1E52AB4500788202 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7F0ABAE1E52AB4500788202 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +34,14 @@
 		C7F0ABB31E52AB4500788202 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7F0ABB61E52AB4500788202 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7F0ABB81E52AB4500788202 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7F0ABBF1E52B02800788202 /* duration.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duration.png; sourceTree = "<group>"; };
+		C7F0ABC01E52B02800788202 /* maxVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maxVolume.png; sourceTree = "<group>"; };
+		C7F0ABC11E52B02800788202 /* miniVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = miniVolume.png; sourceTree = "<group>"; };
+		C7F0ABC21E52B02800788202 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		C7F0ABC31E52B02800788202 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		C7F0ABC41E52B02800788202 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		C7F0ABC51E52B02800788202 /* thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb.png; sourceTree = "<group>"; };
+		C7F0ABC61E52B02800788202 /* thumbHightLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbHightLight.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +80,26 @@
 				C7F0ABB31E52AB4500788202 /* Assets.xcassets */,
 				C7F0ABB51E52AB4500788202 /* LaunchScreen.storyboard */,
 				C7F0ABB81E52AB4500788202 /* Info.plist */,
+				C7F0ABBE1E52B00700788202 /* Resource */,
 			);
 			path = QuickPlay_V;
+			sourceTree = "<group>";
+		};
+		C7F0ABBE1E52B00700788202 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				C7A5C1321E54094200870F5E /* music2.mp3 */,
+				C7A5C1331E54094200870F5E /* music3.mp3 */,
+				C7F0ABBF1E52B02800788202 /* duration.png */,
+				C7F0ABC01E52B02800788202 /* maxVolume.png */,
+				C7F0ABC11E52B02800788202 /* miniVolume.png */,
+				C7F0ABC21E52B02800788202 /* music.mp3 */,
+				C7F0ABC31E52B02800788202 /* pause.png */,
+				C7F0ABC41E52B02800788202 /* play.png */,
+				C7F0ABC51E52B02800788202 /* thumb.png */,
+				C7F0ABC61E52B02800788202 /* thumbHightLight.png */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +161,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7F0ABCD1E52B02800788202 /* thumb.png in Resources */,
 				C7F0ABB71E52AB4500788202 /* LaunchScreen.storyboard in Resources */,
+				C7F0ABC71E52B02800788202 /* duration.png in Resources */,
+				C7A5C1341E54094200870F5E /* music2.mp3 in Resources */,
+				C7F0ABCC1E52B02800788202 /* play.png in Resources */,
+				C7F0ABCB1E52B02800788202 /* pause.png in Resources */,
+				C7F0ABC91E52B02800788202 /* miniVolume.png in Resources */,
+				C7F0ABCE1E52B02800788202 /* thumbHightLight.png in Resources */,
+				C7F0ABC81E52B02800788202 /* maxVolume.png in Resources */,
 				C7F0ABB41E52AB4500788202 /* Assets.xcassets in Resources */,
+				C7A5C1351E54094200870F5E /* music3.mp3 in Resources */,
+				C7F0ABCA1E52B02800788202 /* music.mp3 in Resources */,
 				C7F0ABB21E52AB4500788202 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +347,7 @@
 				C7F0ABBD1E52AB4500788202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
